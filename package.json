@@ -10,5 +10,9 @@
   "main": "index.js",
   "repository": "https://github.com/mrdanielsancoelho/gerador_de_pdf_js.git",
   "author": "Daniel Coelho <danslord2020@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+
+  "scripts": {
+    "start": "node src/app/routes/index"
+  }
 }
