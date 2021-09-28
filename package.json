@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "name": "gerador_de_pdf_js",
+  "version": "1.0.0",
+  "description": "Gerador de pdf dinamico com javascript",
+  "main": "index.js",
+  "repository": "https://github.com/mrdanielsancoelho/gerador_de_pdf_js.git",
+  "author": "Daniel Coelho <danslord2020@gmail.com>",
+  "license": "MIT"
+}
